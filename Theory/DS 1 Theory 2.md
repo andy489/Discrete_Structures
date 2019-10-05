@@ -98,4 +98,4 @@
 
 **39.** Пълно множество от двоични функции. Казваме, че едно множество от двоични функции е пълно, ако затварянето мъ съвпада с всички двоични функции: <img src="https://latex.codecogs.com/svg.latex?\Large&space;[F]=\mathbb{F}_2">. <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{F}_2=\{f|f"> е двойчна функция <img src="https://latex.codecogs.com/svg.latex?\Large&space;\}">
 
-**40.** Суперпозиция. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x_1,x_2,...,x_n)\in{\mathbb{F}_q^n}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;g_i(y_1,y_2,...,y_m)\in{\mathbb{F_q^m}},{\;}i=\overline{1,n}">. Функцията
+**40.** Суперпозиция. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x_1,x_2,...,x_n)\in{\mathbb{F}_q^n}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;g_i(y_1,y_2,...,y_m)\in{\mathbb{F_q}^m},{\;}i=\overline{1,n}">. Функцията
