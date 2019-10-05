@@ -54,3 +54,7 @@
 
 **21.** Твърдението за Хамилтонови графи. Графът <img src="https://latex.codecogs.com/svg.latex?\Large&space;B_n,n\ge{1}"> e Хамилтонов, където <img src="https://latex.codecogs.com/svg.latex?\Large&space;B_n(J_2^n,E_n)"> с върхове <img src="https://latex.codecogs.com/svg.latex?\Large&space;n"> - мерните двоични вектори и ребра <img src="https://latex.codecogs.com/svg.latex?\Large&space;E_n=\{(\alpha_i,\alpha_j)|\rho{(\alpha_i,\alpha_j)=1}\}"> е <img src="https://latex.codecogs.com/svg.latex?\Large&space;n"> - мерен двоичен куб:
 ![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Hamilton%20Graphs%2001.png)
+
+**22.** Линейна булева функция и полином на Жегалкин. Полином на Жегалкин за <img src="https://latex.codecogs.com/svg.latex?\Large&space;n"> променливи:<br>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x_1,x_2,...,x_n)=a_0\oplus{a_1x_1}\oplus{a_2x_2}\oplus{...}\oplus{a_nx_n}\oplus{a_{12}x_1x_2}\oplus{a_{13}x_1x_3}\oplus{...}\oplus{a_{n-1,n}x_{n-1}x_n}\oplus{a_{123}x_1x_2x_3}\oplus{...}\oplus{a_{n-2,n-1,n}x_{n-2}x_{n-1}x_n}\oplus{...}\oplus{a_{1,2,...,n}}x_1x_2...x_n=">
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;=a_0\oplus\bigoplus_{1\le{i}\le{n}}a_ix_i\bigoplus_{1\le{i}<j\le{n}}a_{ij}x_ix_j\oplus{...}\oplus{a_{1,2,...,n}x_1x_2...x_n}">, където <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\in\{0,1\}">.
