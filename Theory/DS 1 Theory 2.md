@@ -98,4 +98,11 @@
 
 **39.** Пълно множество от двоични функции. Казваме, че едно множество от двоични функции е пълно, ако затварянето мъ съвпада с всички двоични функции: <img src="https://latex.codecogs.com/svg.latex?\Large&space;[F]=\mathbb{F}_2">. <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{F}_2=\{f|f"> е двойчна функция <img src="https://latex.codecogs.com/svg.latex?\Large&space;\}">
 
-**40.** Суперпозиция. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x_1,x_2,...,x_n)\in{\mathbb{F}_q^n}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;g_i(y_1,y_2,...,y_m)\in{\mathbb{F_q}^m},{\;}i=\overline{1,n}">. Функцията
+**40.** Суперпозиция. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x_1,x_2,...,x_n)\in{\mathbb{F}_q}^n"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;g_i(y_1,y_2,...,y_m)\in{\mathbb{F_q}^m},{\;}i=\overline{1,n}">. Функцията <img src="https://latex.codecogs.com/svg.latex?\Large&space;h(y_1,y_2,...,y_m)=f(g_1(y_1,...,y_m),g_2(y_1,...,y_m),...,g_n(y_1,...,y_m))"> наричаме суперпозиция на <img src="https://latex.codecogs.com/svg.latex?\Large&space;g_1,g_2,...,g_n"> в <img src="https://latex.codecogs.com/svg.latex?\Large&space;f">.
+
+**41.** Предпълни множества и твърдението за тях. Множествата <img src="https://latex.codecogs.com/svg.latex?\Large&space;T_0,T_1,S,M,L"> и само те са предпълни в <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{F}^2">.
+
+**42.** Теорема на Бул. Множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{x\vee{y},xy,\overline{x}\}">
+е пълно.
+
+**43.** Теорема на Р. Дилуорт. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е частична наредба в крайното множество <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">, <img src="https://latex.codecogs.com/svg.latex?\Large&space;C"> e минимално верижно разбиване на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">, а <img src="https://latex.codecogs.com/svg.latex?\Large&space;S"> е максимална антиверига на <img src="https://latex.codecogs.com/svg.latex?\Large&space;R">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;|S|=|C|">.
