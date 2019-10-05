@@ -34,4 +34,8 @@
 
 **15.** Инективно изображение. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;f:A\rightarrow{B}">. Казваме, че функцията <img src="https://latex.codecogs.com/svg.latex?\Large&space;f"> е инективна (*инекция*), ако образите на всеки два различни елемента <img src="https://latex.codecogs.com/svg.latex?\Large&space;a,b\in{A}"> са различни, т.е. <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{a\neq{b}}(f(a)\neq{f(b)})">.
 
-**16.** Сюрективно изображение. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;f:A\rightarrow{B}">. Казваме, че функцията <img src="https://latex.codecogs.com/svg.latex?\Large&space;f"> е сюрективна (*сюрекция*), ако за всеки елемент <img src="https://latex.codecogs.com/svg.latex?\Large&space;b\in{B}">, съществува <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\in{A}">, такъв че <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(а)=b">.
+**16.** Сюрективно изображение. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;f:A\rightarrow{B}">. Казваме, че функцията <img src="https://latex.codecogs.com/svg.latex?\Large&space;f"> е сюрективна (*сюрекция*), ако за всеки елемент <img src="https://latex.codecogs.com/svg.latex?\Large&space;b\in{B}">, съществува <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\in{A}">, такъв че <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(a)=b">.
+
+**17.** Изброимо множество. Всяко крайно множество, както и всяко *безкрайно* множество, от което съществува *биекция* в множеството на *естествените* числа е изброимо.
+
+**18.** Най-много изброимо множество. КАзваме, че множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е най-много изброимо, ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е крайно или ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;А"> е изброимо.
