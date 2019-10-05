@@ -91,3 +91,5 @@
 **36.** Критерият за затвореност на едно множество от двойчни (булеви) функции. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;F\subseteq{\mathbb{F}_q}(q=2)"> е такова, че:
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x)=x\in{F}">;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{f,g_1,g_2,...,g_n\in{F}}\Rightarrow{h=f(g_1,g_2,...,g_n)\in{F}}">.<br>Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;F"> е затворено.
+
+**37.** Критерият (*теоремата*) за пълнота на Пост за множество от булеви функции. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;F\in{mathbb{F}_2}">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;F"> е пълно т.с.т.к. (<img src="https://latex.codecogs.com/svg.latex?\Large&space;\Leftrightarrow">) <img src="https://latex.codecogs.com/svg.latex?\Large&space;F\notsubseteq{T_0},F\notsubseteq{T_1},F\notsubseteq{L},F\notsubseteq{S},F\notsubseteq{M}{\;}(F\notsubset{T_0\cup{T_1}}\cup{L}\cup{S}\cum{M})">.
