@@ -56,3 +56,8 @@
 **25.** Минимален елемент на ч.н.м. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;<A,R>"> е частично наредено множество (ч.н.м.). Казваме, че елементът <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\in{A}"> е минимален, т.т.к. не съществува елемент <img src="https://latex.codecogs.com/svg.latex?\Large&space;b\in{A}"> такъв, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;b<a">.
 
 **26.** Максимален елемент на ч.н.м. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;<A,R>"> е частично наредено множество (ч.н.м.). Казваме, че елементът <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\in{A}"> е максимален, т.т.к. не съществува елемент <img src="https://latex.codecogs.com/svg.latex?\Large&space;b\in{A}"> такъв, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;b>a">.
+
+**27.** Твърденията за класовете на еквивалентност, свързани с разбиване на множеството. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е непразно множество и <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е релация на еквивалентност в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{[a]_R|a\in{A}\}"> е разбиване на множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">.<br>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\{[a_i]\}_i\in{I}">:
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\in{[a_i]_R}\neq\varnothing">
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\n{R}a_j">
