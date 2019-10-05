@@ -43,7 +43,7 @@
 **19.** Крайно множество и брой на елементите му. Множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е крайно, ако<img src="https://latex.codecogs.com/svg.latex?\Large&space;A\neq{\varnothing}"> или <img src="https://latex.codecogs.com/svg.latex?\Large&space;\exists{n\in{N}},n\ge{1}"> и биекция <img src="https://latex.codecogs.com/svg.latex?\Large&space;f:A\rightarrow{I_n}">. Естественото число <img src="https://latex.codecogs.com/svg.latex?\Large&space;|A|=0">, ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A=\varnothing"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;|A|=n">, в противен случай, наричаме брой на елементите на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">.
 
 **20.** Клас на еквивалентност породен от елемент. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е непразни множество и <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е релация на еквивалентност в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Клас на еквивалентност относно <img src="https://latex.codecogs.com/svg.latex?\Large&space;R">, съдържащ елемента <img src="https://latex.codecogs.com/svg.latex?\Large&space;а"> се нарича следното множество:
-- <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R=\{b|b\in{A}{\;}\&{\;}bRa\}">
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R=\{b|b\in{A}{\;}\&{\;}bRa\}">.
 
 **21.** Верига в ч.н.м. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;<A,R>"> е частично наредено множество (ч.н.м.) и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B\subseteq{A}">. Казваме, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> е верига (*линейно наредено*), ако за всеки два елемента <img src="https://latex.codecogs.com/svg.latex?\Large&space;a,b\in{B}"> е изпълнено, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;а"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;b"> са *сравними* относно <img src="https://latex.codecogs.com/svg.latex?\Large&space;R">.
 
@@ -59,25 +59,25 @@
 
 **27.** Твърденията за класовете на еквивалентност, свързани с разбиване на множеството. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е непразно множество и <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е релация на еквивалентност в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{[a]_R|a\in{A}\}"> е разбиване на множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">.<br>
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{[a_i]\}_i\in{I}{\;}:">
-- <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\in{[a_i]_R}\neq\varnothing">
-- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\not{R}a_j">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a_i]\cap{[a_j]=\varnothing">
-- <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i\in{I}}[a_i]_R=A">
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\in{[a_i]_R}\neq\varnothing">;
+- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\not{R}a_j">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a_i]\cap{[a_j]=\varnothing">;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i\in{I}}[a_i]_R=A">.
 
 **28.** Твърденията за класовете на еквивалентност, свързани с това дали два елемента са в релация или не. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е релация на еквивалентност в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Тогава за всеки два елемента <img src="https://latex.codecogs.com/svg.latex?\Large&space;a,b\in{A}"> е изпълнено:
-- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;aRb">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R=[b]_R">
-- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\not{R}b">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R\cap{[b]_R}=\varnothing">
+- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;aRb">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R=[b]_R">;
+- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\not{R}b">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R\cap{[b]_R}=\varnothing">.
 
 **29.** Свойства на изброимите множества. 
-- Едно множество <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо, ако елементите му могат да се подредят в безкрайна редица без повторения
-- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е НМИ и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> не е крайно, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо
-- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\times{A}=A^2"> също е изброимо
+- Едно множество <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо, ако елементите му могат да се подредят в безкрайна редица без повторения;
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е НМИ и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> не е крайно, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо;
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\times{A}=A^2"> също е изброимо;
 - Декартовото произведение <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{N}\times{\mathbb{N}}">, както и множеството на рационалните числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{Q}"> са изброими множества, но множеството на реалните числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{R}"> и множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;2^{\mathbb{N}}"> не са изброими множества.
 
 **30.** Свойства на най-много изброимите множества.
-- Едно множество е НМИ, т.т.к. е празно или елементите му могат да се подредят в безкрайна редица (може и с повторения)
-- Ако едно множество <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> е НМИ и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\subseteq{B}">, то множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> също е НМИ
-- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1,A_2,...,A_n"> са НМИ, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i=1}^{n}A_i"> е НМИ
-- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1,A_2,...,A_n,..."> е безкрайна редица от НМИ, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i=1}^{\infty}A_i"> също е НМИ
+- Едно множество е НМИ, т.т.к. е празно или елементите му могат да се подредят в безкрайна редица (може и с повторения);
+- Ако едно множество <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> е НМИ и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\subseteq{B}">, то множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> също е НМИ;
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1,A_2,...,A_n"> са НМИ, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i=1}^{n}A_i"> е НМИ;
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1,A_2,...,A_n,..."> е безкрайна редица от НМИ, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i=1}^{\infty}A_i"> също е НМИ.
 
 **31.** твърдението за съществуване на минимален/максимален елемент. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;<A,R>"> е ч.н.м. и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> e крайно. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> притежава минимален и максимален елемент.
 
