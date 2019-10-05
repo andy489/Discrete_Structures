@@ -9,3 +9,5 @@
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{i\in{I}}{\;}:{\;}A_i\neq{\varnothing},{\;}A_i\in{A}">;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_i\cap\A_j=\varnothing">, за всяко <img src="https://latex.codecogs.com/svg.latex?\Large&space;i\neq{j},i,j\in{I}">;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i\in{I}}^{}{A_i}=A">
+
+**4.** <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{\bigcup_{i=0}^{n}}A_i">. Елементът <img src="https://latex.codecogs.com/svg.latex?\Large&space;x"> принадлежи на обединението на множествата <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_0,A_1,...,A_n"> тогава и само тогава, когато <img src="https://latex.codecogs.com/svg.latex?\Large&space;x"> принадлежи на *поне* едно от множествата <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_0,A_1,...,A_n">.
