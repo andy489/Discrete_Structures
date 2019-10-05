@@ -70,3 +70,9 @@
 **27.** Принцип на чекмеджетата. Нека имаме <img src="https://latex.codecogs.com/svg.latex?\Large&space;p"> на брой предмета и <img src="https://latex.codecogs.com/svg.latex?\Large&space;r"> на брой чекмеджета. Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;p>r">, то както и да поставим всички предмети в чекмеджетата, *поне* в едно чекмедже ще има *поне* два предмета.
 
 **28.** Принцип на биекцията. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> са крайни множества. Съществува биекция <img src="https://latex.codecogs.com/svg.latex?\Large&space;f:A\rightarrow{B}\Leftrightarrow{|A|=|B|}">.
+
+**29.** Принцип на събирането (*принцип на разбиването*). Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е крайно множество, а <img src="https://latex.codecogs.com/svg.latex?\Large&space;R=\{S_1,S_2,...,S_n\}"> е разбиване на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;|A|=\sum_{i=1}^{n}|S_i|">.
+
+**30.** Принцип на разликата. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> са крайни множества и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\in{B}">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;|B\A|=|B|-|A|">.
+
+**31.** Принцип на умножението (*принцип на декартовото произведение*). Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> са крайни множества. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\times{B}=|A|.|B|">. *Следствие: <img src="https://latex.codecogs.com/svg.latex?\Large&space;|\bigrho{(A)=2^{|A|}}|">*.
