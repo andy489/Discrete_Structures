@@ -53,4 +53,4 @@
 **20.** Хамилтонов граф. Графът <img src="https://latex.codecogs.com/svg.latex?\Large&space;G"> е Хамилтонов, когато <img src="https://latex.codecogs.com/svg.latex?\Large&space;G"> е свързан и в <img src="https://latex.codecogs.com/svg.latex?\Large&space;G"> има Хамилтонов път, който е цикъл, т.е. път в койъо само началото и края участват повече от един път (два пъти), тъй като съвпадат.
 
 **21.** Твърдението за Хамилтонови графи. Графът <img src="https://latex.codecogs.com/svg.latex?\Large&space;B_n,n\ge{1}"> e Хамилтонов, където <img src="https://latex.codecogs.com/svg.latex?\Large&space;B_n(J_2^n,E_n)"> с върхове <img src="https://latex.codecogs.com/svg.latex?\Large&space;n"> - мерните двоични вектори и ребра <img src="https://latex.codecogs.com/svg.latex?\Large&space;E_n=\{(\alpha_i,\alpha_j)|\rho{(\alpha_i,\alpha_j)=1}\}"> е <img src="https://latex.codecogs.com/svg.latex?\Large&space;n"> - мерен двоичен куб:
-
+![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Hamilton%20Graphs%2001.png)
