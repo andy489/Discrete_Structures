@@ -61,4 +61,8 @@
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{[a_i]\}_i\in{I}{\;}:">
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\in{[a_i]_R}\neq\varnothing">
 - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_i\not{R}a_j">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a_i]\cap{[a_j]=\varnothing">
-- <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i\in{I}}^{}[a_i]_R=A">
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i\in{I}}[a_i]_R=A">
+
+**28.** Твърденията за класовете на еквивалентност, свързани с това дали два елемента са в релация или не. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е релация на еквивалентност в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Тогава за всеки два елемента <img src="https://latex.codecogs.com/svg.latex?\Large&space;a,b\in{A}"> е изпълнено:
+- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;aRb">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R=[b]_R">
+- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\not{R}b">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R\cap{[b]_R}=\varnothing">
