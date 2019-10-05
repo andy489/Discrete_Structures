@@ -75,4 +75,4 @@
 
 **30.** Принцип на разликата. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> са крайни множества и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\in{B}">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;|B\A|=|B|-|A|">.
 
-**31.** Принцип на умножението (*принцип на декартовото произведение*). Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> са крайни множества. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\times{B}=|A|.|B|">. *Следствие: <img src="https://latex.codecogs.com/svg.latex?\Large&space;|\bigrho{(A)=2^{|A|}}|">*.
+**31.** Принцип на умножението (*принцип на декартовото произведение*). Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> са крайни множества. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\times{B}=|A|.|B|">. *Следствие: <img src="https://latex.codecogs.com/svg.latex?\Large&space;|P{(A)=2^{|A|}}|">*.
