@@ -11,3 +11,5 @@
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i\in{I}}^{}{A_i}=A">
 
 **4.** <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{\bigcup_{i=0}^{n}}A_i">. Елементът <img src="https://latex.codecogs.com/svg.latex?\Large&space;x"> принадлежи на обединението на множествата <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_0,A_1,...,A_n"> тогава и само тогава, когато <img src="https://latex.codecogs.com/svg.latex?\Large&space;x"> принадлежи на *поне* едно от множествата <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_0,A_1,...,A_n">.
+
+**5.** <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{\bigcap_{i=0}^{n}}A_i">. Елементът <img src="https://latex.codecogs.com/svg.latex?\Large&space;x"> принадлежи на сечението на множествата <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_0,A_1,...,A_n"> тогава и само тогава, когато <img src="https://latex.codecogs.com/svg.latex?\Large&space;x"> принадлежи на *всяко* едно от множествата <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_0,A_1,...,A_n">.
