@@ -66,3 +66,15 @@
 **28.** Твърденията за класовете на еквивалентност, свързани с това дали два елемента са в релация или не. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е релация на еквивалентност в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Тогава за всеки два елемента <img src="https://latex.codecogs.com/svg.latex?\Large&space;a,b\in{A}"> е изпълнено:
 - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;aRb">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R=[b]_R">
 - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;a\not{R}b">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;[a]_R\cap{[b]_R}=\varnothing">
+
+**29.** Свойства на изброимите множества. 
+- Едно множество <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо, ако елементите му могат да се подредят в безкрайна редица без повторения
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е НМИ и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> не е крайно, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> е изброимо, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\times{A}=A^2"> също е изброимо
+- Декартовото произведение <img src="https://latex.codecogs.com/svg.latex?\Large&space;юmathbb{N}\times{\mathbb{N}}">, както и множеството на рационалните числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{Q}"> са изброими множества, но множеството на реалните числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{R}"> и множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;2^{\mathbb{N}}"> не са изброими множества.
+
+**30.** Свойства на най-много изброимите множества.
+- Едно множество е НМИ, т.т.к. е празно или елементите му могат да се подредят в безкрайна редица (може и с повторения)
+- Ако едно множество <img src="https://latex.codecogs.com/svg.latex?\Large&space;B"> е НМИ и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\subseteq{B}">, то множеството <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> също е НМИ
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1,A_2,...,A_n"> са НМИ, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i=1}^{n}A_i"> е НМИ
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1,A_2,...,A_n,..."> е безкрайна редица от НМИ, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcup_{i=1}^{\infty}A_i"> също е НМИ
