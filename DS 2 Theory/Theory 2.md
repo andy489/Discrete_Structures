@@ -68,3 +68,7 @@
 - всеки разрешим език е полуразрешим;
 - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;L"> е разрешим език, то и допълнението му <img src="https://latex.codecogs.com/svg.latex?\Large&space;\overline{L}=(\sum{\setminus}\{\rhd{,}\sqcup\})^{\ast}"> също е разрешим език;
 - съществува полуразрешим език, който не е разрешим.
+
+**9.** Кога една функция <img src="https://latex.codecogs.com/svg.latex?\Large&space;f:\sum{o}\ast\nrightarrow\sum{o}\ast"> се изчисляа с помощта на машина на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;M=<K,\sum{,}\delta{,}s,H>,{\;}\sum{o}\subseteq{\sum}\setminus\{\rhd{,}\sqcup\}">.<br> Тогава, когато за всяка дума <img src="https://latex.codecogs.com/svg.latex?\Large&space;w\in{\sum{o}\ast}"> са изпълнени условията:
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;(s,\rhd\underline{\sqcup}w)\vdash_M^{\ast}(h,\rhd\underline{\sqcup}y)">, за <img src="https://latex.codecogs.com/svg.latex?\Large&space;y\in\sum{o}\ast\Rightleftarrow{f(w)}=y">;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(w)"> е определена <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Leftrightarrow{M}"> спира работа върху <img src="https://latex.codecogs.com/svg.latex?\Large&space;(s,\rhd\underline{\sqcup}w)">, т.е. <img src="https://latex.codecogs.com/svg.latex?\Large&space;M(w)=y">.
