@@ -19,5 +19,10 @@
 
 ***СТЕКОВ АВТОМАТ***
 
-**1.** Стеков автомат. Стеков автомат наричаме следната наредена шесторка <img src="https://latex.codecogs.com/svg.latex?\Large&space;M=<K,\sum{,}\Gamma{\Delta},s,F>">, където:
+**1.** Стеков автомат. Стеков автомат наричаме следната наредена шесторка <img src="https://latex.codecogs.com/svg.latex?\Large&space;M=<K,\sum{,}\Gamma{,\Delta},s,F>">, където:
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;K"> - крайно множество от състояния;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum"> - азбука от входните символи;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Gamma"> - азбука от стековите символи;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;s\in{K}"> - начално състояние;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;F\subseteq{K}"> - множество от финалните състояния;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Delta"> - релация на преходите: крайно подмножество на <img src="https://latex.codecogs.com/svg.latex?\Large&space;\big(K\times{\sum\cup}\{\epsilon\}\times{\Gamma^{\ast}}\big)\times\big(K\times{\Gamma^{\ast}}\big)">.
