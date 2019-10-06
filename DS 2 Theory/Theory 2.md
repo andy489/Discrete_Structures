@@ -76,3 +76,18 @@
 **10.** Кога една машина на Тюринг изчислява една функция <img src="https://latex.codecogs.com/svg.latex?\Large&space;F:\mathbb{N}^k\nrightarrow\mathbb{N}"> на <img src="https://latex.codecogs.com/svg.latex?\Large&space;k"> променливи. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;F:\mathbb{N}^k\nrightarrow\mathbb{N}">. Казваме, че машината на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;M=<K,\sum{,}\delta{,}s,H>"> изчислява функцията <img src="https://latex.codecogs.com/svg.latex?\Large&space;F"> точно тогава, когато са изпълнени следните условия:
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;![F](n_1,...,n_k)"> *е дефинирана* <img src="https://latex.codecogs.com/svg.latex?\Large&space;]\Leftrightarrow{M}(1^{n_1}\sqcup{...}\sqcup{}1^{n_k})\searrow"> спира работа: <img src="https://latex.codecogs.com/svg.latex?\Large&space;(s,\rhd\underline{\sqcup}1^{n_1}\sqcup{...}\sqcup{1^{n_k}})\vdash_M^{\ast}(h,\rhd\underline{\sqcup}1^{f(n_1,...,n_k)})">;
 - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;F(n_1,...,n_k)=m">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;M(1^{n_1}\sqcup{...}\sqcup{1^{n_k}})=1^m">.
+
+**11.** Теоремата за неразрешимите проблеми на машина на Тюринг свързани с:<br>
+a) празната дума;<br>
+б) съществуването на вход;<br>
+в) стоп-проблема;<br>
+г) всеки вход;<br>
+д) две машини на Тюринг;<br>
+е) регулярните езици;
+- Следните проблеми на машината на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> са неразрешими:
+  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира върху празната дума;
+  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира върху поне един вход (т.е. дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;\exists{w}:M(w)\searrow">);
+  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира при вход <img src="https://latex.codecogs.com/svg.latex?\Large&space;w,{\;}M\searrow">;
+  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира за всяки вход (т.е. дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M(w)\searrow"> за всяко <img src="https://latex.codecogs.com/svg.latex?\Large&space;w">);
+  - дали за дадени машини на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_2">, <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_2"> спират върху един и същ вход;
+  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;L(M)"> е регулярен език.
