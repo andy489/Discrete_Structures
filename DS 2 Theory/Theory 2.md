@@ -86,8 +86,8 @@ a) празната дума;<br>
 е) регулярните езици;
 - Следните проблеми на машината на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> са неразрешими:
   - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира върху празната дума;
-  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира върху поне един вход (т.е. дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;\exists{w}:M(w)\searrow">);
+  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира върху поне един вход <img src="https://latex.codecogs.com/svg.latex?\Large&space;\big(">т.е. дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;\exists{w}:M(w)\searrow"><img src="https://latex.codecogs.com/svg.latex?\Large&space;\big)">;
   - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира при вход <img src="https://latex.codecogs.com/svg.latex?\Large&space;w,{\;}M\searrow">;
-  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира за всяки вход (т.е. дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M(w)\searrow"> за всяко <img src="https://latex.codecogs.com/svg.latex?\Large&space;w">);
+  - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> спира за всяки вход <img src="https://latex.codecogs.com/svg.latex?\Large&space;\big(">т.е. дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;M(w)\searrow"> за всяко <img src="https://latex.codecogs.com/svg.latex?\Large&space;w"><img src="https://latex.codecogs.com/svg.latex?\Large&space;\big)">;
   - дали за дадени машини на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_2">, <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;M_2"> спират върху един и същ вход;
   - дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;L(M)"> е регулярен език.
