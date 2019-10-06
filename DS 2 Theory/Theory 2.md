@@ -66,5 +66,5 @@
 
 **8.** Твърденията за разрешимите (рекурсивните) и полуразрешимите (рекурсивно номеруемите) езици:
 - всеки разрешим език е полуразрешим;
-- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;L"> е разрешим език, то и допълнението му <img src="https://latex.codecogs.com/svg.latex?\Large&space;\overline{L}=(\sum{\setminus}\\{\rhd{,}\sqcup\})^{\ast}"> също е разрешим език;
+- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;L"> е разрешим език, то и допълнението му <img src="https://latex.codecogs.com/svg.latex?\Large&space;\overline{L}=(\sum{\setminus}\{\rhd{,}\sqcup\})^{\ast}"> също е разрешим език;
 - съществува полуразрешим език, който не е разрешим.
