@@ -14,4 +14,4 @@
 Индуктивна дефиниция на <img src="https://latex.codecogs.com/svg.latex?\Large&space;R^{\ast}">:<br>
 - за <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{a}\in{A},{\;}(a,a)\in{R^{\ast}}">;
 - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,b)\in{R}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,b)\in{R^{\ast}}">;
-- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,b)\in{R}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,c)\in{R^{\ast}}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,c)\in{R^{\ast}}">.
+- ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,b)\in{R^{\ast}}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,c)\in{R^{\ast}}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,c)\in{R^{\ast}}">.
