@@ -41,5 +41,5 @@
 **14.** Формулирайте теоремата и следствието на Майхил-Нероуд за регулярни езици. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;L\subset{\sum{\ast}}"> е регулярен език. Тогава съществува краен детерминиран автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;M">, който разпознава <img src="https://latex.codecogs.com/svg.latex?\Large&space;L"> с точно толкова състояния, колкото са класовете на еквивалентност относно релацията <img src="https://latex.codecogs.com/svg.latex?\Large&space;\approx_L">. *Следствие:* езикът <img src="https://latex.codecogs.com/svg.latex?\Large&space;L"> е регулярен <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Leftrightarrow"> (т.с.т.к.) индексът на релацията <img src="https://latex.codecogs.com/svg.latex?\Large&space;\approx_L"> е краен.
 
 **15.** Каква е сложността на изучените алгоритми за:
-- построяване на съответен регулярен израз по краен автомат - *експоненциална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(3^{\k\})">;
+- построяване на съответен регулярен израз по краен автомат - *експоненциална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(3^{|k|})">;
 - детерминизация на недетерминиран автомат - *експоненциална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(2^{|k|}|k|^2|\sum||\Delta||k|^3)">;
