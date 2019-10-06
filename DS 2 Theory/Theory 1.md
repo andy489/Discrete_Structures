@@ -41,5 +41,10 @@
 **14.** Формулирайте теоремата и следствието на Майхил-Нероуд за регулярни езици. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;L\subset{\sum{\ast}}"> е регулярен език. Тогава съществува краен детерминиран автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;M">, който разпознава <img src="https://latex.codecogs.com/svg.latex?\Large&space;L"> с точно толкова състояния, колкото са класовете на еквивалентност относно релацията <img src="https://latex.codecogs.com/svg.latex?\Large&space;\approx_L">. *Следствие:* езикът <img src="https://latex.codecogs.com/svg.latex?\Large&space;L"> е регулярен <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Leftrightarrow"> (т.с.т.к.) индексът на релацията <img src="https://latex.codecogs.com/svg.latex?\Large&space;\approx_L"> е краен.
 
 **15.** Каква е сложността на изучените алгоритми за:
-- построяване на съответен регулярен израз по краен автомат - *експоненциална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(3^{|k|})">;
-- детерминизация на недетерминиран автомат - *експоненциална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(2^{|k|}|k|^2|\sum||\Delta||k|^3)">;
+- Построяване на съответен регулярен израз по краен автомат - *експоненциална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(3^{|k|})">;
+- Детерминизация на недетерминиран автомат - *експоненциална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(2^{|k|}|k|^2|\sum||\Delta||k|^3)">;
+- Проверка дали два крайни недетерминирани автомата са еквивалентни или не - *експоненциална*;
+- Проверка дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;L(\alpha_1)=L(\alpha_2)"> по дадени два регулярни израза <img src="https://latex.codecogs.com/svg.latex?\Large&space;\alpha_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;\alpha_2"> - *експоненциална*;
+- Минимизация на краен детерминиран автомат - *полиномиална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(|k|^3|\sum|)">;
+- Съответен краен недетерминиран автомат по регулярен израз - *полиномиална* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma(2|\alpha|+1)">;
+- Проверка дали два кайни детерминирани автомата са еквивалентни или не - *полиномиална*.
