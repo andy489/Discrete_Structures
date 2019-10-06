@@ -50,3 +50,13 @@
 - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;w\notin{L}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;M"> отхвърля <img src="https://latex.codecogs.com/svg.latex?\Large&space;w{\;}{\;}\big((s,\rhd\underline{\sqcup}w)"> *спира на отхвърляща конфигурация* (такава с <img src="https://latex.codecogs.com/svg.latex?\Large&space;n">)<img src="https://latex.codecogs.com/svg.latex?\Large&space;\big)">;
 
 **3.** Какво и в какво преобразува простата машина на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;R_{\sqcup}">.<br><img src="https://latex.codecogs.com/svg.latex?\Large&space;\rhd{w_1}\underline{\sqcup}w_2\rightarrow_{R_{\sqcup}}\rhd{w_1}\sqcup{w_2}\underline{\sqcup},{\;}w_2\in(\sum\setminus\{\rhd{,}\sqcup\})^{\ast}"><br>- обхожда (сканира) лентата надясно докато не намери символ за празната клетка.
+
+**4.** Какво и в какво преобразува простата машина на Тюринг <img src="https://latex.codecogs.com/svg.latex?\Large&space;L_{\sqcup}">.<br><img src="https://latex.codecogs.com/svg.latex?\Large&space;\rhd{w_1}{\sqcup}w_2\underline{\sqcup}\rightarrow_{L_{\sqcup}}\rhd{w_1}\underline{\sqcup}{w_2},{\;}w_2\in(\sum\setminus\{\rhd{,}\sqcup\})^{\ast}"><br>- обхожда (сканира) лентата наляво докато не намери символ за празната клетка.
+
+**5.** Какво и в какво преобразува машината (*копи-машината*) <img src="https://latex.codecogs.com/svg.latex?\Large&space;C"> на Тюринг.<br>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sqcup{w}\underline{\sqcup}\stackrel{\text{C}}{\rightarrow}\sqcup{w}\sqcup{w}\underline{\sqcup},{\;}w_2\in(\sum\setminus\{\rhd{,}\sqcup\})^{\ast}">
+
+**6.**
+
+
+https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Turing%20Machine%2001.png
