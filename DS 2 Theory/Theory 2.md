@@ -57,7 +57,9 @@
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sqcup{w}\underline{\sqcup}\stackrel{\text{C}}{\rightarrow}\sqcup{w}\sqcup{w}\underline{\sqcup},{\;}w_2\in(\sum\setminus\{\rhd{,}\sqcup\})^{\ast}">
 
 **6.** Какво и в какво преобразува машината (*шифт-машината*) <img src="https://latex.codecogs.com/svg.latex?\Large&space;S\rightarrow"> на Тюринг.<br>
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sqcup{w}\underline{\sqcup}\stackrel{\text{S->}}{\rightarrow}\sqcup\sqcup{w}\underline{\sqcup},{\;}w_2\in(\sum\setminus\{\rhd{,}\sqcup\})^{\ast}">
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sqcup{w}\underline{\sqcup}\stackrel{\text{S}}{\rightarrow}\sqcup\sqcup{w}\underline{\sqcup},{\;}w_2\in(\sum\setminus\{\rhd{,}\sqcup\})^{\ast}">
 
+**7.** Какво и в какво преобразува *delete* машината на Тюринг.<br>
+Заменя непразните символи от лентата с празни (изтриване).
 
-https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Turing%20Machine%2001.png
+![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Turing%20Machine%2001.png)
