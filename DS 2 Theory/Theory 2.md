@@ -62,4 +62,4 @@
 **7.** Какво и в какво преобразува *delete* машината на Тюринг.<br>
 Заменя непразните символи от лентата с празни (изтриване).
 
-![](a
+![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Turing%20Machine%2001.png)
