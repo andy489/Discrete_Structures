@@ -93,4 +93,6 @@ a) празната дума;<br>
 
 **ФОРМАЛИЗИРАНЕ НА ОПЕРАЦИИТЕ**
 
-**21.** Операцията минимизация. Нека<img src="https://latex.codecogs.com/svg.latex?\Large&space;f:\mathbb{N}^{n+1}\nrightarrow\mathbb{N}">. Казваме, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;g:\mathbb{N}^n\nrightarrow{\mathbb{N}}"> се получава от <img src="https://latex.codecogs.com/svg.latex?\Large&space;f"> с помощта на операцията минимизация (<img src="https://latex.codecogs.com/svg.latex?\Large&space;\mu">-операция), ако за произволни
+**21.** Операцията минимизация. Нека<img src="https://latex.codecogs.com/svg.latex?\Large&space;f:\mathbb{N}^{n+1}\nrightarrow\mathbb{N}">. Казваме, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;g:\mathbb{N}^n\nrightarrow{\mathbb{N}}"> се получава от <img src="https://latex.codecogs.com/svg.latex?\Large&space;f"> с помощта на операцията минимизация (<img src="https://latex.codecogs.com/svg.latex?\Large&space;\mu">-операция), ако за произволни <img src="https://latex.codecogs.com/svg.latex?\Large&space;x_1,....x_n,y"> е изпълнена еквивалентността:<br>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;g(x_1,...,x_n)=y\Leftrightarrow{f(x_1,...,x_n,y)=0}{\;}\&{\;}\forall{z}<y:f(x_1,...,x_n,z)"> *е дефинирана и* <img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x_1,...,x_n,z)>0">.
+
