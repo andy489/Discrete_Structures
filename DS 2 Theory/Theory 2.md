@@ -36,7 +36,7 @@
 **МАШИНА НА ТЮРИНГ**
 
 **10.** Машина на Тюринг. МТ наричаме следната наредена петорка <img src="https://latex.codecogs.com/svg.latex?\Large&space;M=<K,\sum{,}\delta{,}s,H>">, където:
-- <img src=**МАШИНА НА ТЮРИНГ**"https://latex.codecogs.com/svg.latex?\Large&space;K"> - крайно множество от състояния;
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;K"> - крайно множество от състояния;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum"> - азбука, която съдържа символ за празна клетка <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sqcup"> и символ за ляв ограничител <img src="https://latex.codecogs.com/svg.latex?\Large&space;\rhd">, но не съдържа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\leftarrow"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;\rightarrow">;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;s\in{K}"> - начално състояние;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;H\in{K}"> - множество от стоп състояния;
