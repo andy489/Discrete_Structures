@@ -1,4 +1,4 @@
-### ДИСКРЕТНИ СТРУКТУРИ 1
+### ДИСКРЕТНИ СТРУКТУРИ 2
 #### *ТЕОРИЯ 1*
 
 **1.** Регулярен израз <img src="https://latex.codecogs.com/svg.latex?\Large&space;\alpha">. Регулярен израз над азбуката <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum"> е стринг над азбуката <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum\cup\{\varnothing{,\cdot},\cup{,}\ast\}">, който може да се дефинира индуктивно както следва:
