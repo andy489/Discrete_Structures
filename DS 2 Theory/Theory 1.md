@@ -52,7 +52,19 @@
 #### Регулярни операции <img src="https://latex.codecogs.com/svg.latex?\Large&space;(\cup,\cdot,\ast)"> над езици, разпознавани от *НДКА*
 Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1,A_2"> са *НДКА* (недетерминирани крайни автомати)<br>
 **1.** Автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_{\cup}"> с език равен на <img src="https://latex.codecogs.com/svg.latex?\Large&space;L(A_1)\cup{L(A_2)}">. 
-1) състояния: състояния на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2"> и ново състояние <img src="https://latex.codecogs.com/svg.latex?\Large&space;q">;
+1) състояния: състоянията на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2"> и ново състояние <img src="https://latex.codecogs.com/svg.latex?\Large&space;q">;
 2) начално състояние: <img src="https://latex.codecogs.com/svg.latex?\Large&space;q">;
 3) финални състояния: финалните състояния на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2"> се запазват. <img src="https://latex.codecogs.com/svg.latex?\Large&space;q"> е финално тогава и само тогава, когато поне едно от началните състояния на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2"> е било финално;
 4) преходи: преходите в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2"> остават. <img src="https://latex.codecogs.com/svg.latex?\Large&space;q"> повтаря преходите на началните състояния на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2">.
+
+**2.** Автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\cdot"> с език равен на <img src="https://latex.codecogs.com/svg.latex?\Large&space;L(A_1)\cdot{L(A_2)}">. 
+1) състояния: състоянията на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2">;
+2) начално състояние: начално състояние на левия автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1">;
+3) финални състояния: финалните състояния на десния автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2">. Добавяме финалните състояния на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> тогава и само тогава, когато началното състояние на десния автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2"> е било финално;
+4) преходи: преходите в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2"> остават. Всяко финлно състояние на левия автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> повтаря преходите на началното състояние на десния автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_2">.
+
+**3.** Автомат <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\ast"> с език равен на <img src="https://latex.codecogs.com/svg.latex?\Large&space;(L(A_1))^{\ast}">. 
+1) състояния: състоянията на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и ново състояние <img src="https://latex.codecogs.com/svg.latex?\Large&space;q">;
+2) начално състояние: <img src="https://latex.codecogs.com/svg.latex?\Large&space;q">;
+3) финални състояния: финалните състояния на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;q">;
+4) преходи: преходите в <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1">. Всички финлни състояния на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\ast"> повтарят преходите на началното състояние на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A_1">.
