@@ -19,4 +19,5 @@
 
 ***СТЕКОВ АВТОМАТ***
 
-**1.**
+**1.** Стеков автомат. Стеков автомат наричаме следната наредена шесторка <img src="https://latex.codecogs.com/svg.latex?\Large&space;M=<K,\sum{,}\Gamma{\Delta},s,F>">, където:
+- <img src="https://latex.codecogs.com/svg.latex?\Large&space;K"> - крайно множество от състояния;
