@@ -42,3 +42,5 @@
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;s\in{K}"> - начално състояние;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;H\in{K}"> - множество от стоп състояния;
 - <img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta"> - функция на преходите: <img src="https://latex.codecogs.com/svg.latex?\Large&space;(K\setminus{H})\times\sum\rightarrow{K}\times(\sum\cup\{\leftarrow{,}\rightarrow\})">, за която за всяко <img src="https://latex.codecogs.com/svg.latex?\Large&space;q\in{K\setminus{H}}">:<br>
+  - ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta(q,\rhd)=(p,b)">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;b=\rightarrow">;
+  - <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{a}\in\sum">, ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta(q,a)=(p,b)"> то <img src="https://latex.codecogs.com/svg.latex?\Large&space;b\neg\rhd">.
