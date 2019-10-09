@@ -1,3 +1,9 @@
 ## Задача 05.
 
 Да се докаже, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{A_0,A_1,...,A_n}"> е изпълнено: <img src="https://latex.codecogs.com/svg.latex?\Large&space;P\big(\bigcap_{i=0}^{\infty}A_i\big)=\bigcap_{i=0}^{\infty}P\big(A_i\big)">.
+
+*Док-во:*
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;(\subseteq)"> Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;X\in{P}\big(\bigcap_{i=0}^{\infty}A_i\big)">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;X\subseteq\bigcap_{i=0}^{\infty}A_i\Leftrightarrow\forall{i},x\in{A_i}">, където <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{X}">, т.е. <img src="https://latex.codecogs.com/svg.latex?\Large&space;\bigcap_{i=0}^{\infty}A_i\subseteq{A_k}"> за <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{k}">. Но за всяко <img src="https://latex.codecogs.com/svg.latex?\Large&space;k\in{\mathbb{N}},{\;}\bigcap_{i=0}^{\infty}A_i\subseteq{A_k}">, откъдето <img src="https://latex.codecogs.com/svg.latex?\Large&space;X\in{A_k}"> за всяко <img src="https://latex.codecogs.com/svg.latex?\Large&space;k\in{\mathbb{N}}">. Следователно за <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{k\in{\mathbb{N}}},{\;}x\in{P\big(A_k\big)}">.
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;(\supseteq)">
