@@ -14,4 +14,5 @@
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;(\supseteq)"> Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{A\cup{(B\cap{C})}}">
 - Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{A}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{A\cup{B}}{\;}(A\subseteq{A\cup{B}})">. Но <img src="https://latex.codecogs.com/svg.latex?\Large&space;(A\subseteq{C}"> по условие <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow{x\in{(A\cup{B})}}\cap{C}">.
+
 - Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\notin{A},{\;}x\in{(B\cap{C})}\Rightarrow{\underbrace{x\in{B}}_{\underbrace{x\in{A\cup{B}}}_{x\in{(A\cup{B})\cap{C}}}}}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{C}">.
