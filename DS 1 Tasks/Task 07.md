@@ -10,4 +10,4 @@
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;(\subseteq)"> Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{(A\cup{B})\cap{C}}">. Тогава <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{(A\cup{B})}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{C}">.
 - Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{A}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{A\cup{(B\cap{C})}}">
-- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\notin{A}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{B}(x\in{A\cup{B}})\Rightarrow">
+- Ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\notin{A}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{B}(x\in{A\cup{B}})"><br><img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow{x\in{B\cap{C}}}\Rightarrow{x\in{A\cup{(B\cap{C})}}}\Rightarrow{(A\cup{B})\cap{C}}\subseteq{A\cup{(B\cap{C})}}"> (тук)
