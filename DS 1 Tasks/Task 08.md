@@ -7,7 +7,7 @@
 От <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\in{A}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\notin{C}\Rightarrow{\underline{x\in{A\setminus{C}}}}{\;}"> *(1)*<br>
 От <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\notin{B}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\notin{C}\Rightarrow{\underline{x\notin{B\setminus{C}}}}{\;}"> *(2)*
 
-От *(1)* и *(2)* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow{x\in{(A\setminus{C})\setminus{\setminus{(B\setminus{C})}}}}">.
+От *(1)* и *(2)* <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow{x\in{(A\setminus{C})\setminus{{(B\setminus{C})}}}}">.
 
 
 
