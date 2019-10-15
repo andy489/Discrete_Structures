@@ -19,3 +19,5 @@
 **(1)** <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=py"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;y=qz{\;}\Rightarrow{\;}x=py=p(qz)=(pq)z\Rightarrow{s=pq\in{Q}}">;
 
 **(2)** <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=py"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;yz=q\Rightarrow{x.y.z=p.y.q}\Rightarrowxz=pq=s\in{\mathbb{Q}}\Rightarrow{s=pq}">; 
+
+**(3)** <img src="https://latex.codecogs.com/svg.latex?\Large&space;xy=p"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;y=qz{\;}\Rightarrow{\;}xyzq=y.p\Rightarrow{xz}=\frac{p}{q}\in{\mathbb{Q}},{\;}q\neq{0},{\;}s=\frac{p}{q}"> е свидетел за <img src="https://latex.codecogs.com/svg.latex?\Large&space;xRz"> .
