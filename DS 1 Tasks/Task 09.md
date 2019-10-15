@@ -22,6 +22,6 @@
 
 **(3)** <img src="https://latex.codecogs.com/svg.latex?\Large&space;xy=p"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;y=qz{\;}\Rightarrow{\;}xyzq=y.p\Rightarrow{xz}=\frac{p}{q}\in{\mathbb{Q}},{\;}q\neq{0},{\;}s=\frac{p}{q}"> е свидетел за <img src="https://latex.codecogs.com/svg.latex?\Large&space;xRz"> .
 
-**(4)** <img src="https://latex.codecogs.com/svg.latex?\Large&space;xy=p"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;yz=q{\;}\Rightarrow{y=\frac{q}{z}},{\;}xy=p\Leftrightarrow{x.\frac{q}{z}}=p\Rightarrowx=\frac{p}{q}z,{\;}q\neq{0}\Rightarrow=\frac{p}{q}"> е свидетел.
+**(4)** <img src="https://latex.codecogs.com/svg.latex?\Large&space;xy=p"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;yz=q{\;}\Rightarrow{y=\frac{q}{z}},{\;}xy=p\Leftrightarrow{x.\frac{q}{z}}=p\Rightarrow{x}=\frac{p}{q}z,{\;}q\neq{0}\Rightarrow=\frac{p}{q}"> е свидетел.
 
 Следователно релацията е транзитивна, но ние доказахме също, че е и рефлексивна и симетрична, от където следва че <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е релация на еквивалентсност.
