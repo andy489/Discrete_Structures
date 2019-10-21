@@ -8,4 +8,10 @@
 
 **2)** *Симетричност.* <br>
 Нека имаме <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)">. Трябва да проверим дали за <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{a,b,A,B:}"> ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(b,B)">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)R(a,A)">, т.е. ако <br><img src="https://latex.codecogs.com/svg.latex?\Large&space;(a"> *дели* <img src="https://latex.codecogs.com/svg.latex?\Large&space;b"> *или* <img src="https://latex.codecogs.com/svg.latex?\Large&space;B\subseteq{A})">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b"> *дели* <img src="https://latex.codecogs.com/svg.latex?\Large&space;a"> *или* <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\subseteq{B})">. Но това *не* винаги е изпълнено.<br>
-Ще дадем контрапримера <img src="https://latex.codecogs.com/svg.latex?\Large&space;a=2,b=4,A=\{1,2\},B=\{1\}">. Следователно <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> не е симетрична.
+Ще дадем *контрапримера* <img src="https://latex.codecogs.com/svg.latex?\Large&space;a=2,b=4,A=\{1,2\},B=\{1\}">. Следователно <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> не е симетрична.
+
+**3)** *Антисиметричност.* <br>
+Трябва да проверим дали, ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(b,B)"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)R(a,A)">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;a=b"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A=B">. Но това *не* винаги е изпълнено. 
+*Контрапример:*<br>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;(2,\{1\})R(4,\{1,2\})">, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;\underbrace{\underbrace{2|4}_{true}\lor\underbrace{\{1,2\}\subseteq\{1\}}_{false}}_{true}"><br> 
+и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(4,\{1,2\})R(2,\{1\})">, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;\underbrace{\underbrace{4|2}_{false}\lor\underbrace{\{1\}\subseteq{1,2}}_{true}}_{true}">
