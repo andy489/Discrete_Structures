@@ -26,4 +26,12 @@
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|b)\lor(B\subseteq{A})"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b|c)\lor(C\subseteq{B})">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|c)\lor(C\subseteq{A})">.
 
 Това не е изпълнено винаги и ще намерим *контрапример* за да докажем това твърдение. За контрапримера трябва
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;a\nmid{b}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B\subseteq{A}; b|c"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;C\nsubseteq{B}">.
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;a\nmid{b}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B\subseteq{A};b|c"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;C\nsubseteq{B}">.
+
+Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;a=3,b=2,c=4">
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;A=\{1,2\},B=\{1\},C=\{4,5\}">.
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;(3,\{1,2\})R(2,\{1\})">, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;(\underbrace{(3|2)}_{false}\lor(\underbrace{\{1\}\subseteq\{1,2\}}_{true})"> е винаги истина и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(2,\{1\})R(4,\{4,5\})">, тъй като
+
+
