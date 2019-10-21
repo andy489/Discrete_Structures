@@ -20,3 +20,7 @@
 
 **4)** *Транзитивност.*<br>
 Трябва да проверим дали, ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(b,B)"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)R(c,C)">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(c,C)"> за произволни <img src="https://latex.codecogs.com/svg.latex?\Large&space;a,b,c\in{\mathbb{N}}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A,B,C\subseteq{P(\mathbb{N})}">.
+
+Тоест трябва да проверим дали, ако:
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|b)\lor(B\subseteq{A}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b|c)\lor(C\subseteq{B}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|c)\lor(C\subseteq{A}">
