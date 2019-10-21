@@ -23,4 +23,7 @@
 
 Тоест трябва да проверим дали, ако:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|b)\lor(B\subseteq{A}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b|c)\lor(C\subseteq{B}">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|c)\lor(C\subseteq{A}">
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|b)\lor(B\subseteq{A})"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b|c)\lor(C\subseteq{B})">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a|c)\lor(C\subseteq{A})">.
+
+Това не е изпълнено винаги и ще намерим *контрапример* за да докажем това твърдение. За контрапримера трябва
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;a\nmid{b}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;B\subseteq{A}; b|c"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;C\nsubseteq{B}">.
