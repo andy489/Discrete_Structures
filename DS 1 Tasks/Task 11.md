@@ -3,5 +3,9 @@
 
 *Решение:*
 
-**1)** Рефлексивност.<br>
+**1)** *Рефлексивност.*<br>
 Нека имаме наредена двойка <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)">. Трябва да проверим дали <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(a,A)\Leftrightarrow{a}"> дели <img src="https://latex.codecogs.com/svg.latex?\Large&space;а"> или <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\subseteq{A}">, което очевидно е изпълнено, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;a|a"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\subseteq{A}">, за <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{a\in\mathbb{N}}"> и за <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{A\subseteq{\mathbb{N}}}">. Следователно <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> е рефлексивна.
+
+**2)** *Симетричност.* <br>
+Нека имаме <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)">. Трябва да проверим дали за <img src="https://latex.codecogs.com/svg.latex?\Large&space;\forall{a,b,A,B:}"> ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(b,B)">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)R(a,A)">, т.е. ако <br><img src="https://latex.codecogs.com/svg.latex?\Large&space;(a"> *дели* <img src="https://latex.codecogs.com/svg.latex?\Large&space;b"> *или* <img src="https://latex.codecogs.com/svg.latex?\Large&space;B\subseteq{A})">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b"> *дели* <img src="https://latex.codecogs.com/svg.latex?\Large&space;a"> *или* <img src="https://latex.codecogs.com/svg.latex?\Large&space;A\subseteq{B})">. Но това *не* винаги е изпълнено.<br>
+Ще дадем контрапримера <img src="https://latex.codecogs.com/svg.latex?\Large&space;a=2,b=4,A=\{1,2\},B=\{1\}">. Следователно <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> не е симетрична.
