@@ -14,4 +14,9 @@
 Трябва да проверим дали, ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(b,B)"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)R(a,A)">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;a=b"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A=B">. Но това *не* винаги е изпълнено. 
 *Контрапример:*<br>
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;(2,\{1\})R(4,\{1,2\})">, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;\underbrace{\underbrace{2|4}_{true}\lor\underbrace{\{1,2\}\subseteq\{1\}}_{false}}_{true}"><br> 
-и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(4,\{1,2\})R(2,\{1\})">, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;\underbrace{\underbrace{4|2}_{false}\lor\underbrace{\{1\}\subseteq{1,2}}_{true}}_{true}">
+и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(4,\{1,2\})R(2,\{1\})">, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;\underbrace{\underbrace{4|2}_{false}\lor\underbrace{\{1\}\subseteq{1,2}}_{true}}_{true}">,
+
+но <img src="https://latex.codecogs.com/svg.latex?\Large&space;(2,\{1\})\neq{(4,\{1,2\})}">. Следователно <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> не е и антисиметрична. От 2) и 3) следва, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;R"> не е нито релация на еквивалентност, нито частична наредба.
+
+**4)** *Транзитивност.*<br>
+Трябва да проверим дали, ако <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(b,B)"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(b,B)R(c,C)">, то <img src="https://latex.codecogs.com/svg.latex?\Large&space;(a,A)R(c,C)"> за произволни <img src="https://latex.codecogs.com/svg.latex?\Large&space;a,b,c\in{\mathbb{N}}"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;A,B,C\subseteq{P(\mathbb{N})}">.
