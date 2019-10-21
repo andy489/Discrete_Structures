@@ -34,6 +34,6 @@
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;(3,\{1,2\})R(2,\{1\})">, тъй като <img src="https://latex.codecogs.com/svg.latex?\Large&space;(\underbrace{(3|2)}_{false}\lor(\underbrace{\{1\}\subseteq\{1,2\}}_{true})"> е винаги истина и <img src="https://latex.codecogs.com/svg.latex?\Large&space;(2,\{1\})R(4,\{4,5\})">, тъй като
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;(\underbrace{(2|4)}_{true}\lor(\underbrace{\{4,5\}\subseteq\{1,2\}}_{false})"> е винаги лъжа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow(a,A)\nR(c,C)\Rightarrow{R}"> не е и транзитивна.
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;(\underbrace{(2|4)}_{true}\lor(\underbrace{\{4,5\}\subseteq\{1,2\}}_{false})"> е винаги лъжа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow(a,A)\overline{R}(c,C)\Rightarrow{R}"> не е и транзитивна.
 
 
