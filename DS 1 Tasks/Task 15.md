@@ -18,5 +18,5 @@
 **б)** Да разделим подмножествата на база брой елементи:
 - нула елемента: <img src="https://latex.codecogs.com/svg.latex?\Large&space;varnothing">;
 - един елемент: <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{\varnothing\},\{\{\varnothing\}\},\{\{\{\varnothing\}\}\}">;
-- два елемента: <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{\varnothing{,\{\varnothing\}}\},\{\varnothing{,}\{\{\varnothing\}\}\},\{\{\varnothing\}\},\{\{\varnothing\}\}\}">;
+- два елемента: <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{\varnothing{,\{\varnothing\}}\},\{\varnothing{,}\{\{\varnothing\}\}\},\{\{\varnothing\},\{\{\varnothing\}\}\}">;
 - три елемента: <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{\varnothing{,}\{\varnothing\},\{\{\varnothing\}\}\}">.
