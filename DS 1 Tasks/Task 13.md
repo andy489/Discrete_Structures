@@ -11,4 +11,4 @@
 
 Нека сега намерим и другите класове на еквивалентност:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;[3]_R=\{3,4,5}">, с което намерихме клас на всеки от елементите на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Намерихме общо два класа, следователно индекса е 2.
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;[3]_R=\{3,4,5\}">, с което намерихме клас на всеки от елементите на <img src="https://latex.codecogs.com/svg.latex?\Large&space;A">. Намерихме общо два класа, следователно индекса е 2.
