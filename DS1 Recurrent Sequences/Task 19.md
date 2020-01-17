@@ -1,4 +1,4 @@
-## Задача 18.
+## Задача 19.
 
 Да се намери редицата <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{a_n\}_0^{\infty}">, която е зададена рекурентно с уравнението <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_{n+1}=-3a_n+(2n+1)5^n"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;a_0=0">.
 
