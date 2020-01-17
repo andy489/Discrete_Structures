@@ -1,5 +1,0 @@
-## Задача 35.
-
-Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;G"> е граф, в който има поне един връх от нечетна степен. Да се докаже, че съществува още един връх от нечетна степен, който е свързан с път с другия връх от нечетна степен.
-
-*Док-во:* Имаме, че в графа <img src="https://latex.codecogs.com/svg.latex?\Large&space;G:{\;}u"> е връх от нечетна степен. Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;u\in{G_1}">, където <img src="https://latex.codecogs.com/svg.latex?\Large&space;G_1"> е компонента на свързаност на <img src="https://latex.codecogs.com/svg.latex?\Large&space;G">. Следователно <img src="https://latex.codecogs.com/svg.latex?\Large&space;G_1"> е свързан граф и съгласно задача [26](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Grphs/Task%2026.md) - има четен брой върхове от нечетна степен. Тогава в <img src="https://latex.codecogs.com/svg.latex?\Large&space;G_1"> има поне още един връх от нечетна степен и той като <img src="https://latex.codecogs.com/svg.latex?\Large&space;G_1"> е свързан, то между тях има път.
