@@ -8,4 +8,4 @@
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;G"> е дърво <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow{|E|=|V|-1=N(1)+N(2)+N(3)-1}">;
 
 Oт формулата на Ойлер имаме:<br>
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;2(N(1)+N(2)+N(3)-1)=\sum_{u\in{V}}deg(u)=N(1).1+N(2).2+N(3).3\Rightarrow{N(1)=2+N(3)}">< което искахме да докажем.
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;2(N(1)+N(2)+N(3)-1)=\sum_{u\in{V}}deg(u)=N(1).1+N(2).2+N(3).3\Rightarrow{N(1)=2+N(3)}">, което искахме да докажем.
