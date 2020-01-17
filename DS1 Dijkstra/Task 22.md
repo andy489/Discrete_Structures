@@ -4,8 +4,6 @@
 Изполвайте алгоритъма на Дейкстра, за да намерите дължините на най-кратките пътища от върха <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> до останалите върхове в графа:
 ![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Dijkstra%20DS1%2002.png)
 
-Алгоритъм на Дейкстра:
-
 A|B|C|D|E|F|непосетени
 -|-|-|-|-|-|-
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\boxed{0}">|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\infty">|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\infty">|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\infty">|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\infty">|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\infty">|<img src="https://latex.codecogs.com/svg.latex?\Large&space;A,B,C,D,E,F">
