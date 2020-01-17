@@ -6,7 +6,7 @@
 
 Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;G"> не е свързан и нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;u\neq{v}"> са два върха от различни компоненти на свързаност. Тоест между <img src="https://latex.codecogs.com/svg.latex?\Large&space;u"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;v"> не съществува път, както и никои връх <img src="https://latex.codecogs.com/svg.latex?\Large&space;v_k"> не е свързан с <img src="https://latex.codecogs.com/svg.latex?\Large&space;v_s,k,s=\overline{1,n}">.
 
-![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Graphs%20DS1%2001.png)
+![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Graphs%2001.png)
 
 От условието следва, че във всяка компонента на свързаност ще има поне <img src="https://latex.codecogs.com/svg.latex?\Large&space;n+1"> върха:
 
