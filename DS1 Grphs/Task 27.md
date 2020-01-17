@@ -1,4 +1,4 @@
-## Задача 26.
+## Задача 27.
 
 Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;G(V,E)"> е граф с <img src="https://latex.codecogs.com/svg.latex?\Large&space;n"> върха и повече от <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{(n-1)(n-2)}{2}"> ребра. Да се докаже, че този граф е свързан.
 
