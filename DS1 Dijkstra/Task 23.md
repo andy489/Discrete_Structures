@@ -1,4 +1,4 @@
-## Задача 22. 
+## Задача 23. 
 
 Изполвайте алгоритъма на Дейкстра, за да намерите дължините на най-кратките пътища от върха <img src="https://latex.codecogs.com/svg.latex?\Large&space;A"> до останалите върхове в графа:
 ![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Dijkstra%20DS1%2004.png)
