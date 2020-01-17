@@ -12,4 +12,4 @@
   
   Но <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{u\in{V_0^2}}deg(u)"> е сума от четни числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow"><br><img src="https://latex.codecogs.com/svg.latex?\Large&space;{\sum_{u\in{V_0^2}}deg(u)}\equiv{0}(mod{\;}2)">. От друга страна <img src="https://latex.codecogs.com/svg.latex?\Large&space;2|E|"> е четно число.
   
-Следователно и <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{u\in{V_1^2}deg(u)}"> е четно число, но в тази сума всяко събираемо е нечетно (от разбиването) от където следва, че броя им е четно число.
+Следователно и <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{u\in{V_1^2}}deg(u)"> е четно число, но в тази сума всяко събираемо е нечетно (от разбиването) от където следва, че броя им е четно число.
