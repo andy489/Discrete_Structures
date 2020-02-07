@@ -1,6 +1,6 @@
 ## Задача 10.
 
-Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;\unlhd"> е релацията над <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{Z}"> определена чрез <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\{\unlhd}y\Leftrightarrow{x=y}{\;}\lor{\;}x+1<y">. Проверете дали тази релация е частична наредба.
+Нека <img src="https://latex.codecogs.com/svg.latex?\Large&space;\unlhd"> е релацията над <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mathbb{Z}"> определена чрез <img src="https://latex.codecogs.com/svg.latex?\Large&space;x\unlhd}y\Leftrightarrow{x=y}{\;}\lor{\;}x+1<y">. Проверете дали тази релация е частична наредба.
 
 *Проверка:*
 
