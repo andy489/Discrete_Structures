@@ -6,7 +6,7 @@
 
 ![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Prim%20DS1%2001.png)
 
-Избираме връх <img src="https://latex.codecogs.com/svg.latex?\Large&space;C"> и прилагаме алгоритъма на Прим:
+Избираме връх <img src="https://latex.codecogs.com/svg.latex?C"> и прилагаме алгоритъма на Прим:
 
 ![](https://github.com/andy489/Data_Structures_and_Algorithms_CPP/blob/master/assets/Prim%20DS1%2002.png)
 
