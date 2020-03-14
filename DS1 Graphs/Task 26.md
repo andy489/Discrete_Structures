@@ -6,9 +6,9 @@
 
 Формулата на Ойлер ни дава:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;2|E|=\sum_{u\in{V}}deg(u)=\sum_{u\in{V_0^2}}deg(u)+\sum_{u\in{V_1^2}}deg(u)">, където <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{V_k^m\},k\le{m-1}"> е множеството от върхове със степен даваща остатък <img src="https://latex.codecogs.com/svg.latex?\Large&space;k"> по модулно деление на <img src="https://latex.codecogs.com/svg.latex?\Large&space;m">.
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;2|E|=\sum_{u\in{V}}deg(u)=\sum_{u\in{V_0^2}}deg(u)+\sum_{u\in{V_1^2}}deg(u)">, където <img src="https://latex.codecogs.com/svg.latex?\Large&space;\{V_k^m\},k\le{m-1}"> е множеството от върхове със степен даваща остатък <img src="https://latex.codecogs.com/svg.latex?\Large&space;k"> по модулно деление на <img src="https://latex.codecogs.com/svg.latex?m">.
 
-В нашия случай имаме, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;V_0^2\cup{V_1^2}=V"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;V_0^2\cap{V_1^2=\varnothing},{\;}V_0^2,V_1^2\subseteq{V}">, следователно сме разбили <img src="https://latex.codecogs.com/svg.latex?\Large&space;V"> на две подмножества.
+В нашия случай имаме, че <img src="https://latex.codecogs.com/svg.latex?\Large&space;V_0^2\cup{V_1^2}=V"> и <img src="https://latex.codecogs.com/svg.latex?\Large&space;V_0^2\cap{V_1^2=\varnothing},{\;}V_0^2,V_1^2\subseteq{V}">, следователно сме разбили <img src="https://latex.codecogs.com/svg.latex?V"> на две подмножества.
   
   Но <img src="https://latex.codecogs.com/svg.latex?\Large&space;\sum_{u\in{V_0^2}}deg(u)"> е сума от четни числа <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Rightarrow"><br><img src="https://latex.codecogs.com/svg.latex?\Large&space;{\sum_{u\in{V_0^2}}deg(u)}\equiv{0}(mod{\;}2)">. От друга страна <img src="https://latex.codecogs.com/svg.latex?\Large&space;2|E|"> е четно число.
   
