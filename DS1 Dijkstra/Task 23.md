@@ -10,5 +10,5 @@ A|B|C|D|E|F|непосетени
 -|-|9|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\infty">|10|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\boxed{4}">|<img src="https://latex.codecogs.com/svg.latex?\Large&space;C,D,E,F">
 -|-|7|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\boxed{5}">|6|-|<img src="https://latex.codecogs.com/svg.latex?\Large&space;C,D,E">
 -|-|7|-|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\boxed{6}">|-|<img src="https://latex.codecogs.com/svg.latex?\Large&space;C,E">
--|-|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\boxed{7}">|-|-|-|<img src="https://latex.codecogs.com/svg.latex?\Large&space;C">
+-|-|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\boxed{7}">|-|-|-|<img src="https://latex.codecogs.com/svg.latex?C">
 -|-|-|-|-|-|<img src="https://latex.codecogs.com/svg.latex?\Large&space;\varnothing">
