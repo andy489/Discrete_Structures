@@ -1,15 +1,6 @@
 # Discrete Structures
 Discrete Mathematical Structures with Applications to Computer Science
 
-Subdomain|Theme
-:-:|:-:
-DS1|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/Theory%201.pdf)
-DS1|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/Theory%202.pdf)
-DS1|[DS1 Theory 1 Test 08.02.16](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/DS1%20Theory%201%20Test%2008.02.16.pdf)
-DS1|[DS1 Theory 1 Test 18.11.16](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/DS1%20Theory%201%20Test%2018.11.16.pdf)
-DS2|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/Theory%201.pdf)
-DS2|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/Theory%202.pdf)
-
 Subdomain|Task|Solution
 :-:|:-:|:-:
 DS1>SE Tasks|[Set 01](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Tasks/DS1%20Tasks%201%20from%20SE.pdf)|[Solutions](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Tasks/DS1%20Tasks%201%20from%20SE.pdf)
@@ -53,4 +44,18 @@ DS1>Graphs|[Task 36](https://github.com/andy489/Discrete_Structures/blob/master/
 DS1>Graphs|[Task 37](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2037.pdf)|[Solution](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2037.pdf)
 DS1>Graphs|[Task 38](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2038.pdf)|[Solution](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2038.pdf)
 DS1>Combinatorics|[Task 39](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Combinatorics/Task%2039.pdf)|[Solution](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Combinatorics/Task%2039.pdf)
+
+Subdomain|Theme
+:-:|:-:
+DS1|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/Theory%201.pdf)
+DS1|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/Theory%202.pdf)
+DS1|[DS1 Theory 1 Test 08.02.16](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/DS1%20Theory%201%20Test%2008.02.16.pdf)
+DS1|[DS1 Theory 1 Test 18.11.16](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/DS1%20Theory%201%20Test%2018.11.16.pdf)
+DS2|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/Theory%201.pdf)
+DS2|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/Theory%202.pdf)
+DS2|[DS2 Test 1 08.04.2017](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/DS2%20Test%201%2008.04.2017.pdf)
+DS2|[DS2 Test 1 08.07.2016](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/DS2%20Test%201%2008.07.2016.pdf)
+DS2|[DS2 Test 2 06.06.2016](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/DS2%20Test%202%2006.06.2016.pdf)
+DS2|[Control Test Tasks](https://github.com/andy489/Discrete_Structures/blob/master/DS2%20Control%20Test%20Tasks.pdf)
+DS2|[Consultation](https://github.com/andy489/Discrete_Structures/blob/master/DS2%20Consultation.pdf)
 
