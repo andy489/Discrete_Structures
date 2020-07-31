@@ -44,6 +44,7 @@ DS1>Graphs|[Task 36](https://github.com/andy489/Discrete_Structures/blob/master/
 DS1>Graphs|[Task 37](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2037.pdf)|[Solution](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2037.pdf)
 DS1>Graphs|[Task 38](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2038.pdf)|[Solution](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Graphs/Task%2038.pdf)
 DS1>Combinatorics|[Task 39](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Combinatorics/Task%2039.pdf)|[Solution](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Combinatorics/Task%2039.pdf)
+DS1>Combinatorics|[Task 40](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Combinatorics/Task%2040.pdf)|[Solution](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Combinatorics/Task%2040%20Solution.pdf)
 
 Subdomain|Theme
 :-:|:-:
