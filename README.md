@@ -51,6 +51,7 @@ DS1|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS%201
 DS1|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/Theory%202.pdf)
 DS1|[DS1 Theory 1 Test 08.02.16](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/DS1%20Theory%201%20Test%2008.02.16.pdf)
 DS1|[DS1 Theory 1 Test 18.11.16](https://github.com/andy489/Discrete_Structures/blob/master/DS%201%20Theory/DS1%20Theory%201%20Test%2018.11.16.pdf)
+DS1|[DS1 Control Test 2](https://github.com/andy489/Discrete_Structures/blob/master/DS1%20Constrol%20Test%202%20(13-01-2019).pdf)
 DS2|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/Theory%201.pdf)
 DS2|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/Theory%202.pdf)
 DS2|[DS2 Test 1 08.04.2017](https://github.com/andy489/Discrete_Structures/blob/master/DS%202%20Theory/DS2%20Test%201%2008.04.2017.pdf)
