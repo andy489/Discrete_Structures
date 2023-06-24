@@ -1,7 +1,7 @@
 ### Discrete Mathematical Structures with Applications to Computer Science
 
 Subdomain|Task
-:-:
+-:|:-
 DS|[Discrete Mathematics and Algorithms (M.Soskova)](https://github.com/andy489/Discrete_Structures/blob/master/assets/DS-1/Discrete%20Mathematics%20and%20Algorithms%20Notes%20(M.%20Soskova).pdf)
 DS-1|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS-1/Theory/DS-1%20Theory-1.pdf)
 DS-1|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS-1/Theory/DS-1%20Theory-2.pdf)
