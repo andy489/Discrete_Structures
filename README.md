@@ -51,7 +51,7 @@ Graphs|[Task 39](https://github.com/andy489/Discrete_Structures/blob/master/DS-1
 Combinatorics|[Task 40](https://github.com/andy489/Discrete_Structures/blob/master/DS-1/Combinatorics%20%5B40-41%5D/40.pdf)
 Combinatorics|[Task 41](https://github.com/andy489/Discrete_Structures/blob/master/DS-1/Combinatorics%20%5B40-41%5D/41.pdf)
 DS-2|[Theory 1](https://github.com/andy489/Discrete_Structures/blob/master/DS-2/Theory/DS-2%20Theory-1.pdf)
-DS-2|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS-1/Theory/DS-1%20Theory-2.pdf)
+DS-2|[Theory 2](https://github.com/andy489/Discrete_Structures/blob/master/DS-2/Theory/DS-2%20Theory-2.pdf)
 DS-2|[Theory Test 1 (2016-07-08)](https://github.com/andy489/Discrete_Structures/blob/master/assets/DS-2/Theory%20Tests/DS2%20Test%201%20(2016-07-08).pdf)
 DS-2|[Theory Test 1 (2017-04-08)](https://github.com/andy489/Discrete_Structures/blob/master/assets/DS-2/Theory%20Tests/DS2%20Test%201%20(2017-04-08).pdf)
 DS-2|[Theory Test 2 (2016-06-06)](https://github.com/andy489/Discrete_Structures/blob/master/assets/DS-2/Theory%20Tests/DS2%20Test%202%20(2016-06-06).pdf)
